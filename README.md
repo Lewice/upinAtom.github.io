@@ -286,7 +286,7 @@
 	
 	<h3>Specials</h3>
  <label>
-      <input type="checkbox" class="menu-item" data-price="62"> 32 Ice Creams - $62
+      <input type="checkbox" class="menu-item" data-price="80"> 32 Ice Creams - $80
       <input type="number" class="quantity" value="1" min="1">
     </label>
 
