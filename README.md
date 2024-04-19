@@ -183,117 +183,135 @@
 </head>
 <body>
 
-  <h2>6str Menu</h2>
+  <h2>Up in Atom</h2>
 
   <form id="menuForm">
-  <h3>Engine Upgrades</h3>
+  <h3>Drinks</h3>
     <label>
-      <input type="checkbox" class="menu-item" data-price="375"> Engine Tier 1 - $375
+      <input type="checkbox" class="menu-item" data-price="2"> Soft Drink - $2
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="500"> Engine Tier 2 - $500
-      <input type="number" class="quantity" value="1" min="1">
-    </label>
-    <label>
-      <input type="checkbox" class="menu-item" data-price="750"> Engine Tier 3 - $750
-      <input type="number" class="quantity" value="1" min="1">
-    </label>
-
-	
-	<h3>Suspension Upgrades</h3>
-    <label>
-      <input type="checkbox" class="menu-item" data-price="275"> Suspension Tier 1 - $275
-      <input type="number" class="quantity" value="1" min="1">
-    </label>
-    <label>
-      <input type="checkbox" class="menu-item" data-price="425"> Suspension Tier 2 - $425
-      <input type="number" class="quantity" value="1" min="1">
-    </label>
-    <label>
-      <input type="checkbox" class="menu-item" data-price="550"> Suspension Tier 3 - $550
+      <input type="checkbox" class="menu-item" data-price="3.25"> Atomic Mocha Shake - $3.20
       <input type="number" class="quantity" value="1" min="1">
     </label>
 
 
 	
-	<h3>Transmission Upgrades</h3>
+	<h3>Food</h3>
     <label>
-      <input type="checkbox" class="menu-item" data-price="325"> Transmission Tier 1- $325
+      <input type="checkbox" class="menu-item" data-price="3"> Fries - $3
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="550"> Transmission Tier 2 - $550
+      <input type="checkbox" class="menu-item" data-price="4"> The C4 Burger - $4
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="700"> Transmission Tier 3 - $700
+      <input type="checkbox" class="menu-item" data-price="4"> The BlockBuster - $4
+      <input type="number" class="quantity" value="1" min="1">
+    </label>
+    <label>
+      <input type="checkbox" class="menu-item" data-price="5"> The Cluster Burger - $5
+      <input type="number" class="quantity" value="1" min="1">
+    </label>
+    <label>
+      <input type="checkbox" class="menu-item" data-price="7"> The MOAB - $7
+      <input type="number" class="quantity" value="1" min="1">
+    </label>
+    <label>
+      <input type="checkbox" class="menu-item" data-price="7"> The FOAB - $7
+      <input type="number" class="quantity" value="1" min="1">
+    </label>
+
+	
+	<h3>Desserts</h3>
+    <label>
+      <input type="checkbox" class="menu-item" data-price="4.20"> Metorite Ice Cream- $4.20
+      <input type="number" class="quantity" value="1" min="1">
+    </label>
+    <label>
+      <input type="checkbox" class="menu-item" data-price="4.20"> Orangatang Ice Cream - $4.20
+      <input type="number" class="quantity" value="1" min="1">
+    </label>
+
+
+
+	
+	<h3>Atomic Mocha Shake Special</h3>
+    <label>
+      <input type="checkbox" class="menu-item" data-price="30"> 10 Coffess - $30
+      <input type="number" class="quantity" value="1" min="1">
+    </label>
+    <label>
+      <input type="checkbox" class="menu-item" data-price="60"> 20 Coffess - $60
+      <input type="number" class="quantity" value="1" min="1">
+    </label>
+    <label>
+      <input type="checkbox" class="menu-item" data-price="90"> 30 Coffess - $90
+      <input type="number" class="quantity" value="1" min="1">
+    </label>
+    <label>
+      <input type="checkbox" class="menu-item" data-price="120"> 40 Coffess - $120
+      <input type="number" class="quantity" value="1" min="1">
+    </label>
+    <label>
+      <input type="checkbox" class="menu-item" data-price="150"> 50 Coffess - $150
+      <input type="number" class="quantity" value="1" min="1">
+    </label>
+    <label>
+      <input type="checkbox" class="menu-item" data-price="180"> 100 Coffess - $180
       <input type="number" class="quantity" value="1" min="1">
     </label>
 
 
 	
-	<h3>Brake Upgrades</h3>
+	<h3>Meal Deals</h3>
     <label>
-      <input type="checkbox" class="menu-item" data-price="325"> Brakes Tier 1 - $325
+      <input type="checkbox" class="menu-item" data-price="15"> The C4 Meal  - $15
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="550"> Brakes Tier 2 - $550
+      <input type="checkbox" class="menu-item" data-price="15"> The Blockbuster Meal - $15
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="700"> Brakes Tier 3 - $700
+      <input type="checkbox" class="menu-item" data-price="18"> The Double Shot/Bleeder Meal - $18
       <input type="number" class="quantity" value="1" min="1">
     </label>
-
-
-	
-	<h3>Turbo</h3>
     <label>
-      <input type="checkbox" class="menu-item" data-price="850"> Turbo - $850
+      <input type="checkbox" class="menu-item" data-price="22"> The Atomic Bomb Meal  - $22
       <input type="number" class="quantity" value="1" min="1">
     </label>
 	
-	<h3>Repairs</h3>
+	<h3>Specials</h3>
  <label>
-      <input type="checkbox" class="menu-item" data-price="5"> Body Repair - $5
+      <input type="checkbox" class="menu-item" data-price="62"> 32 Ice Creams - $62
       <input type="number" class="quantity" value="1" min="1">
     </label>
-    <label>
-      <input type="checkbox" class="menu-item" data-price="125"> Standard Repair (D-A Class) - $125
-      <input type="number" class="quantity" value="1" min="1">
-    </label>
-    <label>
-      <input type="checkbox" class="menu-item" data-price="350"> Standard Repair (S Class) - $350
-      <input type="number" class="quantity" value="1" min="1">
-    </label>
+
     
 
 	
 	<h3>Misc Items</h3>
 
-	<label>
-      <input type="checkbox" class="menu-item" data-price="25"> Basic Repair Kit - $25
-      <input type="number" class="quantity" value="1" min="1">
-    </label>
-	<label>
-      <input type="checkbox" class="menu-item" data-price="20"> Cleaning Kit - $20
+    <label>
+      <input type="checkbox" class="menu-item" data-price="12"> Limited Time Menu - $12
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="25"> Car Polish(1-2 days) - $25
-      <input type="number" class="quantity" value="1" min="1">
-    </label>
-	<label>
-      <input type="checkbox" class="menu-item" data-price="32"> Fantastic Wax (3-4 days) - $32
+      <input type="checkbox" class="menu-item" data-price="2"> Add Ons - $2
       <input type="number" class="quantity" value="1" min="1">
     </label>
 
-    	<label>
-      <input type="checkbox" class="menu-item" data-price="0.17"> Materials - $.17
+    	<h3>Delivery</h3>
+
+    <label>
+      <input type="checkbox" class="menu-item" data-price="50"> Delivery - $50
       <input type="number" class="quantity" value="1" min="1">
     </label>
+
+
 
 
 
@@ -313,8 +331,9 @@
 	<label for="discount">Select Discount:</label>
     <select id="discount" onchange="calculateTotals()">
       <option value="0">No Discount</option>
-      <option value="40">30% Discount (Employee Discount)</option>
-      <option value="30">25% Discount (LEO Discount)</option>
+      <option value="30">30% Discount (Employee Discount)</option>
+      <option value="25">25% Discount (LEO Discount)</option>
+      <option value="10">10% Discount (Mech Discount)</option>
     </select>
 	
 	<div style="margin-bottom: 30px;"></div>
