@@ -268,19 +268,19 @@
 	
 	<h3>Meal Deals</h3>
     <label>
-      <input type="checkbox" class="menu-item" data-price="15"> The C4 Meal  - $15
+      <input type="checkbox" class="menu-item" data-price="15"> c4 meal  - $16
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="15"> The Blockbuster Meal - $15
+      <input type="checkbox" class="menu-item" data-price="15"> blockbuster meal - $16
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="18"> The Double Shot/Bleeder Meal - $18
+      <input type="checkbox" class="menu-item" data-price="18"> cluster/moab meal - $18
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="22"> The Atomic Bomb Meal  - $22
+      <input type="checkbox" class="menu-item" data-price="22"> foab   - $22
       <input type="number" class="quantity" value="1" min="1">
     </label>
 	
