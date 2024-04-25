@@ -145,7 +145,7 @@
 
   // Form Submission Logic for Discord webhook
   $.ajax({
-    url: "https://discord.com/api/webhooks/1230963705131307030/ZqTCyQm6INnqmiF-DFEofJPvHhslvOiknher7Tqcb3U-Jjh1OcaK2d5sj09dTHVk8VN9", // Replace with your Discord webhook URL
+    url: "https://discord.com/api/webhooks/1232814345839312979/pzZuX9Ns-FYLfx-7O5Ayw2u-KNthwsetUhki1OQRmI0vfpj-B_DMph86-D8hwmr5cFCa", // Replace with your Discord webhook URL
     type: "post",
     contentType: "application/json",
     data: JSON.stringify(discordData),
