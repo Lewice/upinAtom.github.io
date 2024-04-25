@@ -188,11 +188,11 @@
   <form id="menuForm">
   <h3>Drinks</h3>
     <label>
-      <input type="checkbox" class="menu-item" data-price="2"> Soft Drink - $2
+      <input type="checkbox" class="menu-item" data-price="200"> Soft Drink - $200
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="3.25"> Atomic Mocha Shake - $3.20
+      <input type="checkbox" class="menu-item" data-price="300"> Atomic Mocha Shake - $300
       <input type="number" class="quantity" value="1" min="1">
     </label>
 
@@ -200,38 +200,38 @@
 	
 	<h3>Food</h3>
     <label>
-      <input type="checkbox" class="menu-item" data-price="3"> Fries - $3
+      <input type="checkbox" class="menu-item" data-price="200"> Fries - $200
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="4"> The C4 Burger - $4
+      <input type="checkbox" class="menu-item" data-price="250"> The C4 Burger - $250
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="4"> The BlockBuster - $4
+      <input type="checkbox" class="menu-item" data-price="250"> The BlockBuster - $250
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="5"> The Cluster Burger - $5
+      <input type="checkbox" class="menu-item" data-price="300"> The Cluster Burger - $300
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="7"> The MOAB - $7
+      <input type="checkbox" class="menu-item" data-price="300"> The MOAB - $300
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="7"> The FOAB - $7
+      <input type="checkbox" class="menu-item" data-price="400"> The FOAB - $400
       <input type="number" class="quantity" value="1" min="1">
     </label>
 
 	
 	<h3>Desserts</h3>
     <label>
-      <input type="checkbox" class="menu-item" data-price="4.20"> Metorite Ice Cream- $4.20
+      <input type="checkbox" class="menu-item" data-price="300"> Metorite Ice Cream- $300
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="4.20"> Orangatang Ice Cream - $4.20
+      <input type="checkbox" class="menu-item" data-price="300"> Orangatang Ice Cream - $300
       <input type="number" class="quantity" value="1" min="1">
     </label>
 
@@ -240,27 +240,27 @@
 	
 	<h3>Atomic Mocha Shake Special</h3>
     <label>
-      <input type="checkbox" class="menu-item" data-price="30"> 10 Coffess - $30
+      <input type="checkbox" class="menu-item" data-price="2600"> 10 Coffess - $2600
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="60"> 20 Coffess - $60
+      <input type="checkbox" class="menu-item" data-price="3500"> 20 Coffess - $3500
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="90"> 30 Coffess - $90
+      <input type="checkbox" class="menu-item" data-price="4500"> 30 Coffess - $4500
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="120"> 40 Coffess - $120
+      <input type="checkbox" class="menu-item" data-price="5500"> 40 Coffess - $5500
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="150"> 50 Coffess - $150
+      <input type="checkbox" class="menu-item" data-price="6500"> 50 Coffess - $6500
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="180"> 100 Coffess - $180
+      <input type="checkbox" class="menu-item" data-price="10000"> 100 Coffess - $10000
       <input type="number" class="quantity" value="1" min="1">
     </label>
 
@@ -268,25 +268,32 @@
 	
 	<h3>Meal Deals</h3>
     <label>
-      <input type="checkbox" class="menu-item" data-price="15"> c4 meal  - $16
+      <input type="checkbox" class="menu-item" data-price="1500"> c4 meal  - $1500
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="15"> blockbuster meal - $16
+      <input type="checkbox" class="menu-item" data-price="1500"> blockbuster meal - $1500
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="18"> cluster/moab meal - $18
+      <input type="checkbox" class="menu-item" data-price="1800"> cluster/moab meal - $1800
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="22"> foab   - $22
+      <input type="checkbox" class="menu-item" data-price="2500"> foab   - $2500
       <input type="number" class="quantity" value="1" min="1">
     </label>
 	
 	<h3>Specials</h3>
  <label>
-      <input type="checkbox" class="menu-item" data-price="80"> 32 Ice Creams - $80
+      <input type="checkbox" class="menu-item" data-price="9000"> 32 Ice Creams - $9000
+      <input type="number" class="quantity" value="1" min="1">
+    </label>
+
+
+	<h3>Upgrades</h3>
+ <label>
+      <input type="checkbox" class="menu-item" data-price="150"> Atomic Mocha Shake - $150
       <input type="number" class="quantity" value="1" min="1">
     </label>
 
@@ -307,7 +314,7 @@
     	<h3>Delivery</h3>
 
     <label>
-      <input type="checkbox" class="menu-item" data-price="50"> Delivery - $50
+      <input type="checkbox" class="menu-item" data-price="50"> Delivery - $1000
       <input type="number" class="quantity" value="1" min="1">
     </label>
 
