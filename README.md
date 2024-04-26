@@ -303,18 +303,15 @@
 	<h3>Misc Items</h3>
 
     <label>
-      <input type="checkbox" class="menu-item" data-price="12"> Limited Time Menu - $12
+      <input type="checkbox" class="menu-item" data-price="5000"> Mystery meal - $5000
       <input type="number" class="quantity" value="1" min="1">
     </label>
-    <label>
-      <input type="checkbox" class="menu-item" data-price="2"> Add Ons - $2
-      <input type="number" class="quantity" value="1" min="1">
-    </label>
+
 
     	<h3>Delivery</h3>
 
     <label>
-      <input type="checkbox" class="menu-item" data-price="50"> Delivery - $1000
+      <input type="checkbox" class="menu-item" data-price="1000"> Delivery - $1000
       <input type="number" class="quantity" value="1" min="1">
     </label>
 
